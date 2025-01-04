@@ -1,6 +1,6 @@
-package pacote2;
+package pacote2public;
 
-import pacote1.Classe1;
+import pacote1public.Classe1;
 
 public class Classe2 {
 	public String atributo1;
