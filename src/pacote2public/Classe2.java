@@ -8,13 +8,13 @@ public class Classe2 {
     public float atributo3;
 
     public static void main(String[] args) {
-        // Instância de Classe1
+        // Instância da Classe1
         Classe1 objeto1 = new Classe1();
         objeto1.atributo1 = "Texto ";
         objeto1.atributo2 = 16;
         objeto1.atributo3 = 3.14;
 
-        // Instância de Classe2
+        // Instância da Classe2
         Classe2 objeto2 = new Classe2();
         objeto2.atributo1 = "Texto";
         objeto2.atributo2 = true;
